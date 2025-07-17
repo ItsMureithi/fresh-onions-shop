@@ -206,9 +206,6 @@ nav ul li a:hover {
 }
 
 
-
-
-
 .benefit-item:hover {
  box-shadow: 0 6px 26px 6px rgba(0,0,0,0.10);
  transform:scale(1.05);
@@ -250,6 +247,148 @@ nav ul li a:hover {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+
+
+/* General Footer Styling */
+.footer {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    padding: 40px 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Welcome Section (Newsletter) */
+.welcome-info {
+    margin-bottom: 40px;
+    flex: 1; /* Make sure it takes enough space in the grid */
+}
+
+.welcome-info p {
+    font-size: 18px;
+    margin: 0;
+    color: #aaa;
+    cursor: pointer;
+    margin-bottom:40px;
+}
+
+.welcome-info p:hover{
+    color:#FF9800;
+}
+
+
+.welcome-info h1 {
+    font-size: 36px;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #fff;
+}
+
+
+.button .btn {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 13px 26px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.button .btn:hover {
+/*     background-color: #45a049;  *//* Darker green on hover */
+    background: transparent;
+    border: 2px solid #fff;
+}
+
+/* Footer Links */
+
+.foot-items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+
+.footer-column {
+    padding: 0 20px;
+    flex :1;
+    min-width:200px;
+}
+
+
+.footer-column p {
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer-column p:hover{
+    color: #FFEB3B;
+}
+
+
+.footer-column ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+
+.footer-column ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+.footer-column ul li a:hover {
+    color: #4CAF50; /* Green color on hover */
+}
+
+
+/* Social Media Icons */
+.social-icons {
+    margin-top: 10px;
+}
+
+
+.social-icons a {
+    font-size: 24px;
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #4CAF50; /* Green color on hover */
+}
+
+/* Responsiveness for Mobile Devices */
+
+@media (max-width: 768px) {
+
+    footer {
+        display:flex;
+    }
+
+    .welcome-info h1 {
+    font-size: 20px;
+    
+    }
+   
+}
+
+
 
 
 /* Responsiveness*/
@@ -298,11 +437,7 @@ nav ul li a:hover {
 }
 
 
-
-
-
-
-
+    
 
 
 
