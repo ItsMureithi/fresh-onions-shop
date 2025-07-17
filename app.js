@@ -120,3 +120,39 @@ document.addEventListener("DOMContentLoaded", function() {
     // Attach footer to the body of the website
     document.getElementById('footer-container').appendChild(footer);
 });
+
+
+
+//trying to style contact heading uusing javascrpt
+document.addEventListener("DOMContentLoaded", function(){
+    const contact = document.getElementById('contact');
+    contact.style.color ="red";
+    contact.style.fontSize = "24px";
+    contact.style.fontWeight = "bold";
+});
+
+
+//styling a p id using javascript
+
+/* document.addEventListener("DOMContentLoaded", function(){
+   
+    const welcome = document.getElementById('welcome');
+    welcome.style.color ="#000";
+    welcome.style.fontSize = "20px";
+    welcome.style.fontWeight = "bold";
+    welcome.style.textAlign = "center";
+    welcome.style.padding ="10px 20px";
+    welcome.style.textTransform = "uppercase"
+
+}); */
+
+
+//Javascript for testing purposes
+
+/* document.addEventListener("DOMContentLoaded",function() {
+    const conta = document.createElement('H2');
+    conta.textContent = "Hurray Solomon";
+    conta.style.color ="red";
+    document.body.appendChild(conta);
+
+}); */ 
