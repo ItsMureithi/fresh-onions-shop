@@ -156,3 +156,47 @@ document.addEventListener("DOMContentLoaded", function(){
     document.body.appendChild(conta);
 
 }); */ 
+
+
+//Javascript for the trusted section:<script>
+
+  const counters = document.querySelectorAll('.counter');
+  let hasAnimated = false;
+
+  function animateCounters() {
+    if (hasAnimated) return;
+
+    counters.forEach(counter => {
+      const target = +counter.getAttribute('data-target');
+      let count = 0;
+
+      const update = () => {
+        const step = target / 100;
+        if (count < target) {
+          count += step;
+          counter.innerText = Math.ceil(count);
+          requestAnimationFrame(update);
+        } else {
+          counter.innerText = target;
+        }
+      };
+
+      update();
+    });
+  }
+
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting && !hasAnimated) {
+        animateCounters();
+        hasAnimated = true;
+      }
+    });
+  }, {
+    threshold: 0.5 // triggers when 50% of the section is visible
+  });
+
+
+  const trustedSection = document.querySelector('.trusted');
+  observer.observe(trustedSection);

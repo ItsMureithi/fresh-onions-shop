@@ -7,10 +7,14 @@
 
 }
 
-body,html {
+body,html{
       font-family: Arial, sans-serif;
       scroll-behavior: smooth;
   
+}
+
+hr {
+    color: #fff;
 }
 
 /* Header Section */
@@ -484,6 +488,104 @@ nav ul li a:hover {
 .red-btn:hover{
     color: #fff;
 }
+
+
+
+/* Styling the trusted section */
+
+.trusted {
+    background:linear-gradient(145deg, #faf9f7, #f0ebe5);
+    padding:20px 24px;
+    border-radius: 6px;
+    width: 100%;
+    margin:20px;
+}
+
+
+.trusted h2{
+    text-align: center;
+    margin-top:40px;
+    padding:20px;
+    font-size: 36px;
+    color:#000;
+    cursor: pointer;
+}
+
+.trusted h2:hover{
+    color: #8b7b0f;
+}
+
+.trusted p{
+    color: #000;
+    font-weight: 400;
+    font-size: 12px;
+    padding:15px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.hero-stats {
+    display:flex;
+    justify-content: center;
+    gap:25px;
+    margin-top: 50px;
+}
+
+
+.hero-stats > div {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    padding:15px 22px;
+    min-width: 120px;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+}
+
+
+.hero-stats > div:hover{
+    transform: translateY(-5px);
+}
+
+
+
+.hero-stats span{
+    color:#d2a679;
+    display: block;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.hero-stats span:hover {
+    color:red;  
+}
+
+
+
+.hero-stats .spa{
+    color:#000;
+    display: block;
+    font-size:18px;
+    font-weight:600;
+
+}
+
+
+.hero-stats .spa:hover{
+    color:blue;
+
+}
+
+
+
+
+
+
+
+
 
 /* Responsiveness for Mobile Devices */
 
