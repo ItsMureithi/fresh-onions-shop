@@ -36,6 +36,8 @@ header {
     width: 50px;
     height:50px; /* Adjust logo size */
     border-radius: 50%;
+    outline: 2px solid #564caf;
+
 }
 
 nav ul {
@@ -112,6 +114,47 @@ nav ul li a:hover {
     color: #555; /* Dark grey for the subheading */
     margin-bottom: 35px;
     line-height: 1.6;
+
+}
+
+.waweru {
+    background: linear-gradient(to right, #f9f9f9, #fff);
+    border-left: 10px solid #88c057;
+    padding:25px;
+    margin:30px auto;
+    max-width: 850px;
+    font-size: 17px;
+    line-height: 1.8;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    box-shadow:0 0 15px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+
+.waweru:hover {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+}
+
+
+.waweru a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #007f5f;
+    transition: color 0.3s;
+}
+
+.waweru a:hover{
+    color: #00513c;
+}
+
+.waweru .highlight{
+    color: #d62828;
+    font-size: 20px;
+    font-weight: 700;
+
 }
 
 
@@ -167,7 +210,7 @@ nav ul li a:hover {
     align-items: center;
     width: 90%;
     margin: 0 auto;
-    padding:30px 0;
+    padding:30px 20px;
     box-shadow: 0px 4px 10px rgba(0,0, 0, 0.1);
     border-radius: 10px;
 }
@@ -176,19 +219,20 @@ nav ul li a:hover {
 .benefits {
     display:flex;
     justify-content: space-around;
-    flex-wrap: wrap;
-    gap: 12px;
+    flex-wrap:wrap;
+    gap:10px 15px;
 }
 
 
 .benefit-item {
     width: 30%;
+    flex: 1 1 250px;
     text-align: center;
     background-color:#FF9800;
     padding: 8px 16px;
     border-radius: 6px;
     cursor: pointer;
-    background-image: linear-gradient(0deg , #3f5efb, #fc466b);
+    background-image: linear-gradient(135deg, #edf4ec, #ebe6f5);
     transition:transform0.3s ease, box-shadow 0.3s ease;
 
 }
@@ -200,6 +244,7 @@ nav ul li a:hover {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+
 @keyframes fadeIn {
     0% {
         opacity: 0;
@@ -207,6 +252,12 @@ nav ul li a:hover {
     100% {
         opacity: 1;
     }
+}
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
 
 
@@ -232,8 +283,9 @@ nav ul li a:hover {
 }
 .benefit-item p {
     font-size: 16px;
-    color: #ffffff;
+    color: #000;
 }
+
 
 .spinner {
     border: 3px solid #f3f3f3; /* Light grey border */
@@ -245,12 +297,6 @@ nav ul li a:hover {
     margin-left: 10px; /* Space between text and spinner */
 }
 
-
-
-@keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-}
 
 
 
@@ -365,6 +411,7 @@ nav ul li a:hover {
 }
 
 
+
 .social-icons a {
     font-size: 24px;
     margin: 0 15px;
@@ -373,30 +420,25 @@ nav ul li a:hover {
     transition: color 0.3s ease;
 }
 
+
+
 .social-icons a:hover {
     color: #4CAF50; /* Green color on hover */
 }
 
 
-
-
-
 /* Contact form */
 
-.delivery-info  {
-    min-height:5vh;
-    background: #fdfdfd;
-    color: #000;
-    padding: 10px;
-    width: 100%;
 
+.delivery-info {
+    display: grid;
 }
 
 .delivery-info h2{
     text-align: center;
-    font-size: 23px;
-    margin-top: 50px;
-    margin-bottom: 0;
+    font-size: 10px;
+    margin-top: 0px;
+    color:#4CAF50;
 }
 
 .location {
@@ -412,6 +454,15 @@ nav ul li a:hover {
 .contact-us {
     width: 80%;
     margin:auto;
+
+}
+
+.contact-us h2{
+     color: #4CAF50;
+     text-align: center; 
+     font-size: 36px; 
+     padding:20px;
+
 }
 .row{
     display: flex;
@@ -582,11 +633,6 @@ nav ul li a:hover {
 
 
 
-
-
-
-
-
 /* Responsiveness for Mobile Devices */
 
 @media (max-width: 768px) {
@@ -599,15 +645,24 @@ nav ul li a:hover {
     font-size: 20px;
     
     }
-   
-}
 
+    .hero-stats{
+        flex-direction: column;
+        padding:12px;
+    }
+   .row{
+    padding:none;
+   }
 
+   .contact-col{
+    width: 10%;
+   }
 
+   .contact-col >div{
+    padding: 10px;
+    margin:10px;
+   }
 
-/* Responsiveness*/
-
-@media (max-width:768px) {
     .benefits {
         flex-direction:column;
         align-items: center;
@@ -629,49 +684,14 @@ nav ul li a:hover {
         padding:25px;
 
     }
-}
 
-
-@media (max-width:480px){
-    .benefit-item img{
-        width: 40px;
-    }
-
-    .benefit-item h3{
-        font-size: 18px;
-    }
-
-    .benefit-item p{
-        font-size:14px;
-    }
-
-    .why-choose-us h2{
-        font-size: 10px;
-    }
-}
-
-
-    
-
-
-
-
-
-/* Responsiveness */
-
-
-@media (max-width:768px) {
-    .container {
+     .container {
         width: 90%;
         flex-direction:column;
         align-items: center;
     }
 
-    .logo img{
-        height: 40px;
-    }
-    
-    
+
     nav ul {
         display: block;
         text-align: center;
@@ -691,32 +711,9 @@ nav ul li a:hover {
         padding: 12px 30px;
         font-size: 18px;
     }
-}
 
 
-/* Responsiveness for smaller mobile devices */
-
-@media (max-width:480px) {
-    .logo img{
-        height: 35px;
-        width: 45px;
-    }
-
-    nav ul li a{
-        font-size: 16px;
-    }
-
-    .cta-button .btn{
-        padding: 12px 25px;
-        font-size: 16px;
-    }
-    
-}
-
-
-/* Responsiveness for Hero Section */
-@media (max-width: 768px) {
-    .hero-container {
+     .hero-container {
         flex-direction: column; /* Stacks content vertically on smaller screens */
         text-align: center;
     }
@@ -749,10 +746,54 @@ nav ul li a:hover {
         width: 80%; /* Resize the image on smaller screens */
         margin-top: 25px;
     }
+
+    .waweru {
+        font-size: 16px;
+        padding: 15px;
+        max-width: 500px;
+        border-left: 4px solid #f57c00;
+
+    }
+
+
 }
 
-@media (max-width: 480px) {
-    .hero h1 {
+
+    
+/* Responsiveness for smaller mobile devices */
+
+@media (max-width:480px) {
+    .logo img{
+        height: 35px;
+        width: 45px;
+    }
+
+    nav ul li a{
+        font-size: 16px;
+    }
+
+    .cta-button .btn{
+        padding: 12px 25px;
+        font-size: 16px;
+    }
+
+    .benefit-item img{
+        width: 40px;
+    }
+
+    .benefit-item h3{
+        font-size: 18px;
+    }
+
+    .benefit-item p{
+        font-size:14px;
+    }
+
+    .why-choose-us h2{
+        font-size: 10px;
+    }
+
+     .hero h1 {
         font-size: 24px; /* Further reduce font size for mobile */
     }
 
@@ -763,6 +804,31 @@ nav ul li a:hover {
     .cta-button .btn {
         padding: 10px 15px;
     }
+
+    .waweru {
+        font-size: 10px;
+        padding: 5px;
+        border-left: none;
+        box-shadow: none;
+        background-color: #ffffff;
+        text-align: justify;
+        max-width: 100px;
+    }
+
+    .waweru a{
+        display: block;
+        margin-bottom: 10px;
+    }
+
+
+    .waweru span{
+        display: block;
+        font-size: 18px;
+        color: #d32f2f;
+        margin-top: 5px;
+
+    }
+    
 }
 
 
@@ -820,6 +886,13 @@ nav ul li a:hover {
         margin-bottom: 17px;
         outline: none;
         border: 1px solid #ccc;
+    }
+
+    .waweru {
+        font-size:15px;
+        padding: 12px;
+        background-color: #fff4e6;
+        border-left: 3px solid #f57c00;
     }
 }
 

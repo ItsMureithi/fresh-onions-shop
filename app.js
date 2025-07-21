@@ -9,8 +9,7 @@
         e.preventDefault();
        
         btn.textContent ="...loading";
-        btn.style.background ="red";
-        btn.style.color ="#fff";
+        btn.style.color ="#4CAF50;";
         btn.style.textTransform = "capitalize";
 
         
@@ -26,7 +25,7 @@
 
 //Tooltip on hover
 
-const benefitItems = document.querySelectorAll('.benefit-item');
+/* const benefitItems = document.querySelectorAll('.benefit-item');
 
 benefitItems.forEach(item => {
     item.addEventListener('mouseenter', () => {
@@ -34,7 +33,7 @@ benefitItems.forEach(item => {
         tooltip.classList.add('tooltip');
         tooltip.textContent = 'Click to learn more about this feature';
         item.appendChild(tooltip);
-        item.style.color = "#fff";
+        item.style.color = "#000";
         item.style.padding = "20px";
     });
 
@@ -45,7 +44,7 @@ benefitItems.forEach(item => {
         }
     });
 });
-
+ */
 
 // JavaScript to dynamically create and style the footer
 document.addEventListener("DOMContentLoaded", function() {
@@ -124,11 +123,20 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 //trying to style contact heading uusing javascrpt
-document.addEventListener("DOMContentLoaded", function(){
-    const contact = document.getElementById('contact');
-    contact.style.color ="red";
+/* document.addEventListener("DOMContentLoaded", function(){
+    const contact = document.getElementById('location');
     contact.style.fontSize = "24px";
     contact.style.fontWeight = "bold";
+});
+ */
+
+document.addEventListener("DOMContentLoaded", function(){
+  const con = document.getElementById('location');
+  con.style.color = "#4CAF50;";
+  con.style.fontSize ="2rem";
+  con.style.cursor = "pointer";
+  con.style.textAlign = "center";
+  con.style.marginBottom = "0";
 });
 
 
