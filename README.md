@@ -17,13 +17,13 @@ I chose to create an onion delivery site for my brother who is an entrepreneur i
 **Waweru Onion Cart** is a farm-to-door onion delivery website. It features include:
 
 - Informative landing content
-- 
-- Interactive stats
-- 
+  
+- Interactive statistics made using Vanilla Javascript
+  
 - Embedded Google Maps to showcase the location
-- 
+  
 - A working contact form
-- 
+  
 - Beautiful section transitions and user-friendly layout
 
 ---
@@ -31,7 +31,7 @@ I chose to create an onion delivery site for my brother who is an entrepreneur i
 ## 🧠 What Does It Do?
 
 - ✅ Offers a compelling **About Us** section
-- 
+  
 - ✅ Features trust-building customer statistics over the period of 10 years
   
 - ✅ Includes a call-to-action button to order onions
@@ -52,7 +52,7 @@ I chose to create an onion delivery site for my brother who is an entrepreneur i
 | `CSS3`     | Styling the layout and making it responsive |
 | `Google Fonts` | Applying modern, clean typography |
 | `Font Awesome` | Icons for better UI/UX |
-| `JavaScript` | Scroll counters and enhancements (optional) |
+| `Vanilla JavaScript` | Scroll counters, Stats and enhancements (optional) |
 | `GitHub Pages` | Hosting and live demo |
 
 ---
