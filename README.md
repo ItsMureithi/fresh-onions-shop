@@ -56,7 +56,7 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 📍 Based in: Abu Dhabi, UAE👤
 
 
-## 🚀  InstallationInstallation
+## 🚀  Installation
 
 # 1. Clone the repository
 git clone https://github.com/ItsMureithi/fresh-onions-shop.git 
