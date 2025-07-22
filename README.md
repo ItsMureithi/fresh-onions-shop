@@ -49,14 +49,17 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 ---
 ## Author
 
-__CodeDataDev__
+👤 Author __CodeDataDev__
+🧑‍💻 Frontend Developer & Project Lead
+📧 Email: mureithimenelik2@gmail.com
+🌐 GitHub: @codedatadev
+📍 Based in: Abu Dhabi, UAE👤
 
 
-## Installation
-
+## 🚀  InstallationInstallation
 
 # 1. Clone the repository
-git clone https://github.com/your-username/waweru-onion-cart.git
+git clone https://github.com/ItsMureithi/fresh-onions-shop.git 
 
 # 2. Navigate to the project directory
 cd waweru-onion-cart
@@ -65,7 +68,7 @@ cd waweru-onion-cart
 # You can double-click the file or use a live server (recommended for development)
 
 
-## Acknowledgements
+## 🙏 Acknowledgements
 This project was made possible thanks to:
 
 🧑‍🌾 Local Farmers  for inspiring a fresh produce movement and making organic onions accessible.
