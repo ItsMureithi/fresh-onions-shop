@@ -16,16 +16,15 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 
 ## 🧩 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Responsive Design](#responsive-design)
-- [Installation](#installation)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
-- [License](#license)
-
----
+- [🌟 Features](#-features)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [📁 Folder Structure](#-folder-structure)
+- [📱 Responsive Design](#-responsive-design)
+- [🚀 Installation](#-installation)
+- [🖼️ Screenshots](#️-screenshots)
+- [✍️ Author](#️-author)
+- [📃 License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 ## ✨ Features
 
