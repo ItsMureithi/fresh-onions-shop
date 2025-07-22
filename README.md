@@ -105,9 +105,7 @@ This landing page project was made possible by the insights of the following sta
 ---
 
 
-###  🌟 Special thanks to everyone who believes in 
-
-local agriculture and supports digital innovation in farming.
+###  🌟 Special thanks to everyone who believes in  local agriculture and supports digital innovation in farming.
 
 ---
 
