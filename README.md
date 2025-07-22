@@ -24,7 +24,7 @@ The page acts as a welcome platform to our clients across the city.
 - [📦 Installation](#-installation)
 - [👤 Author](#-author)
 - [🙏 Acknowledgements](#-acknowledgements)
-- [ Author] (#-author).
+- [ Author](#-author).
 
 ---
 
