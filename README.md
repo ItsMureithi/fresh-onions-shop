@@ -18,12 +18,9 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 
 - [🌟 Features](#-features)
 - [🛠️ Technologies Used](#️-technologies-used)
-- [📁 Folder Structure](#-folder-structure)
-- [📱 Responsive Design](#-responsive-design)
 - [🚀 Installation](#-installation)
 - [🖼️ Screenshots](#️-screenshots)
 - [✍️ Author](#️-author)
-- [📃 License](#-license)
 - [🙏 Acknowledgments](#-acknowledgments)
 
 ## ✨ Features
@@ -50,5 +47,34 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 - JavaScript (optional for counters)
 
 ---
+## Author
+
+__CodeDataDev__
 
 
+## Installation
+
+
+# 1. Clone the repository
+git clone https://github.com/your-username/waweru-onion-cart.git
+
+# 2. Navigate to the project directory
+cd waweru-onion-cart
+
+# 3. Open index.html in your browser
+# You can double-click the file or use a live server (recommended for development)
+
+
+## Acknowledgements
+This project was made possible thanks to:
+
+🧑‍🌾 Local Farmers  for inspiring a fresh produce movement and making organic onions accessible.
+
+🎨 Google Fonts & Font Awesome for the elegant typography and icons used in the UI.
+
+💡 YouTube Tutorials & Frontend Mentor challenges for design inspiration and responsive layout strategies.
+
+❤️ Friends & Family  for ongoing motivation, feedback, and support during the development phase.
+
+
+## Special thanks to everyone who believes in local agriculture and supports digital innovation in farming.
