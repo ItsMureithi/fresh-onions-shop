@@ -3,7 +3,11 @@
 **Farm-Fresh Onions Delivered Right to Your Doorstep**
 
 
-Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built landing page for a farm-to-door onion delivery service. This project merges sleek front-end design with practical features that showcase a modern agricultural e-commerce concept.
+Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built landing page for a farm-to-door onion delivery service.
+
+This landing page project merges sleek front-end design with practical features that showcase a modern agricultural e-commerce concept.
+
+The page acts as a welcome platform to our clients across the city.
 
 
 
@@ -20,6 +24,7 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 - [📦 Installation](#-installation)
 - [👤 Author](#-author)
 - [🙏 Acknowledgements](#-acknowledgements)
+- [ Author] (#-author).
 
 ---
 
@@ -68,8 +73,11 @@ Double-click `index.html` or use a live server for a better development experien
 ## 👤 Author
 
 🎯 Frontend Developer & Project Lead  
+
 📧 Email: mureithimenelik2@gmail.com  
-🔗 GitHub: [@codedatadev](https://github.com/ItsMureithi)  
+
+🔗 GitHub: [@codedatadev](https://github.com/ItsMureithi) 
+
 📍 Location: Abu Dhabi, UAE  
 
 ---
@@ -78,15 +86,17 @@ Double-click `index.html` or use a live server for a better development experien
 
 This project was made possible thanks to:
 
-🧑‍🌾 **Local Farmers** — for inspiring a fresh produce movement and making organic onions accessible.  
-🎨 **Google Fonts & Font Awesome** — for the elegant typography and icons used in the UI.  
-📺 **YouTube Tutorials & Frontend Mentor** — for design inspiration and responsive layout strategies.  
-❤️ **Friends & Family** — for ongoing motivation, feedback, and support during the development phase.
+🧑‍🌾 **Local Farmers** for inspiring a fresh produce movement and making organic onions accessible.  
+🎨 **Google Fonts & Font Awesome** for the elegant typography and icons used in the UI.  
+📺 **YouTube Tutorials & Frontend Mentor** for design inspiration and responsive layout strategies.  
+❤️ **Friends & Family**  for ongoing motivation, feedback, and support during the development phase.
 
 ---
 
 
-###  🌟 Special thanks to everyone who believes in local agriculture and supports digital innovation in farming.
+###  🌟 Special thanks to everyone who believes in 
+
+local agriculture and supports digital innovation in farming.
 
 ---
 
