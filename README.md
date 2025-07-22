@@ -2,7 +2,9 @@
 
 **Farm-Fresh Onions Delivered Right to Your Doorstep**
 
+
 Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built landing page for a farm-to-door onion delivery service. This project merges sleek front-end design with practical features that showcase a modern agricultural e-commerce concept.
+
 
 
 ## 🌐 Live Demo.
@@ -31,9 +33,9 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 ✅ Contact form with functional input fields  
 ✅ Newsletter subscription footer  
 ✅ Trust-building impact stats section  
-✅ Font Awesome & Poppins typography  
+✅ Font Awesome & Poppins typography.
 
----
+----
 
 ## 🛠️ Technologies Used
 
@@ -65,7 +67,6 @@ Double-click `index.html` or use a live server for a better development experien
 
 ## 👤 Author
 
-🧑‍💻 **CodeDataDev**  
 🎯 Frontend Developer & Project Lead  
 📧 Email: mureithimenelik2@gmail.com  
 🔗 GitHub: [@codedatadev](https://github.com/ItsMureithi)  
@@ -84,9 +85,9 @@ This project was made possible thanks to:
 
 ---
 
-### 🌟 Special thanks to everyone who believes in local agriculture and supports digital innovation in farming.
+
+###  🌟 Special thanks to everyone who believes in local agriculture and supports digital innovation in farming.
 
 ---
-
 
 🔧 Built with 💻, 📦, and a whole lot of 🧅.
