@@ -24,21 +24,29 @@ The page acts as a welcome platform to our clients across the city.
 - [📦 Installation](#-installation)
 - [👤 Author](#-author)
 - [🙏 Acknowledgements](#-acknowledgements)
-- [ Author](#-author).
+  
 
 ---
 
 ## ✨ Features
 
-✅ Fully responsive layout for desktop, tablet, and mobile  
-✅ Hero section with persuasive call-to-action  
-✅ Professionally written **About Us** story  
-✅ Product features with custom icons and images  
-✅ Embedded Google Maps for business location  
-✅ Contact form with functional input fields  
-✅ Newsletter subscription footer  
-✅ Trust-building impact stats section  
-✅ Font Awesome & Poppins typography.
+✅  Fully responsive layout for desktop, tablet, and mobile 
+
+✅  Hero section with persuasive call-to-action  
+
+✅  Professionally written **About Us** story 
+
+✅  Product features with custom icons and images 
+
+✅  Embedded Google Maps for business location 
+
+✅  Contact form with functional input fields 
+
+✅  Newsletter subscription footer  
+
+✅  Trust-building impact stats section 
+
+✅  Font Awesome & Poppins typography.
 
 ----
 
@@ -84,11 +92,14 @@ Double-click `index.html` or use a live server for a better development experien
 
 ## 🙏 Acknowledgements
 
-This project was made possible thanks to:
+This landing page project was made possible by the insights of the following stakeholders:
 
-🧑‍🌾 **Local Farmers** for inspiring a fresh produce movement and making organic onions accessible.  
-🎨 **Google Fonts & Font Awesome** for the elegant typography and icons used in the UI.  
-📺 **YouTube Tutorials & Frontend Mentor** for design inspiration and responsive layout strategies.  
+🧑‍🌾  **Local Farmers** for inspiring a fresh produce movement and making organic onions accessible. 
+
+🎨 ** Google Fonts & Font Awesome** for the elegant typography and icons used in the UI. 
+
+📺 **YouTube Tutorials & Frontend Mentor** for design inspiration and responsive layout strategies. 
+
 ❤️ **Friends & Family**  for ongoing motivation, feedback, and support during the development phase.
 
 ---
