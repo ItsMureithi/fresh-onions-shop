@@ -104,7 +104,7 @@ Double-click `index.html` or use Live Server for development.
 
 This project was made possible due to the contribution of the following stakeholders:
 
-- 🧑‍🌾 ** Ituga in Karatina Ward Local Farmers**  for inspiring fresh, organic farming.
+- 🧑‍🌾 ** Ituga Village in Karatina Ward Local Farmers**  for inspiring fresh, organic farming.
   
 - 🎨 **Google Fonts & Font Awesome** for amazing typography and icons.
   
