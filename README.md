@@ -4,13 +4,13 @@
 
 Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built landing page for a farm-to-door onion delivery service. This project merges sleek front-end design with practical features that showcase a modern agricultural e-commerce concept.
 
-![onion-banner](https://yourdomain.com/Images/Onion-3.jpg) <!-- Optional: Add screenshot/image URL -->
+![onion-banner][](https://github.com/ItsMureithi/fresh-onions-shop/blob/main/Images/Logo.png) <!-- Optional: Add screenshot/image URL -->
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live site](https://your-github-username.github.io/your-repo-name/)
+🔗 [Click here to view the live site](https://github.com/ItsMureithi/fresh-onions-shop/tree/main))
 
 ---
 
@@ -52,5 +52,4 @@ Welcome to **Waweru Onion Cart**, a clean, responsive, and professionally built 
 
 ---
 
-## 📁 Folder Structure
 
