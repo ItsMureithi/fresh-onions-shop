@@ -82,19 +82,9 @@ Double-click `index.html` or use Live Server for development.
 
 ## 📷 Screenshots
 
-<img width="1351" height="643" alt="Screenshot8" src="https://github.com/user-attachments/assets/a3d178cd-ac49-454e-829e-78a73aa0c5b0" />
-<img width="1358" height="395" alt="Screenshot7" src="https://github.com/user-attachments/assets/bb1817c6-e1e1-4223-aff2-0ff7f5d801d4" />
-<img width="575" height="632" alt="Screenshot6" src="https://github.com/user-attachments/assets/e24da95a-0d6c-4be5-910f-2541a15667b0" />
-<img width="581" height="653" alt="Screenshot4" src="https://github.com/user-attachments/assets/00677f91-47d1-45ad-8710-90f619a9904f" />
-<img width="588" height="645" alt="Screenshot3" src="https://github.com/user-attachments/assets/1ea7cac0-6fa0-4c95-946f-febdbd867252" />
-<img width="684" height="668" alt="Screenshot1" src="https://github.com/user-attachments/assets/e31feab8-ce25-49a6-8c48-d7ad594abbbb" />
-<img width="1345" height="502" alt="Screenshot 2025-07-22 192428" src="https://github.com/user-attachments/assets/0a698d6c-4b9e-46d3-9622-0d75f8de0b3a" />
-<img width="1366" height="654" alt="Screenshot 2025-07-22 192309" src="https://github.com/user-attachments/assets/20bb3f5d-8078-4066-bda5-d5a8b3d57aba" />
-<img width="1352" height="580" alt="Screenshot 2025-07-22 192249" src="https://github.com/user-attachments/assets/d0f9ac2a-57fa-4f9b-b0fe-484089ce4b69" />
-<img width="1346" height="570" alt="Screenshot 9" src="https://github.com/user-attachments/assets/1bcb0818-a3e1-4500-94fe-195b42eca65d" />
-<img width="490" height="651" alt="screenshot 6" src="https://github.com/user-attachments/assets/5a64e7ef-e27f-4f19-b2be-47fe307e9fd0" />
-<img width="573" height="641" alt="Screenshot 5" src="https://github.com/user-attachments/assets/982d2245-e992-4bc3-b229-6d08df5ed620" />
-<img width="682" height="573" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1867fc4f-0d23-4a01-8381-e096d3406c29" />
+<img width="684" height="668" alt="Screenshot1" src="https://github.com/user-attachments/assets/b8467f76-fc5e-438a-98db-cf64cf266f26" />
+<img width="1366" height="654" alt="Screenshot 2025-07-22 192309" src="https://github.com/user-attachments/assets/c8bf1d34-d691-4060-af2a-ef763e5649f1" />
+
 
 *Add screenshots of your landing page here if available.*
 
