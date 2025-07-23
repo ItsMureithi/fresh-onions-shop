@@ -84,6 +84,8 @@ Double-click `index.html` or use Live Server for development.
 
 <img width="684" height="668" alt="Screenshot1" src="https://github.com/user-attachments/assets/b8467f76-fc5e-438a-98db-cf64cf266f26" />
 <img width="1366" height="654" alt="Screenshot 2025-07-22 192309" src="https://github.com/user-attachments/assets/c8bf1d34-d691-4060-af2a-ef763e5649f1" />
+<img width="588" height="645" alt="Screenshot3" src="https://github.com/user-attachments/assets/f4ca6283-b2de-4efd-a56e-e8ca9285304c" />
+<img width="1345" height="502" alt="Screenshot 2025-07-22 192428" src="https://github.com/user-attachments/assets/27971b9e-779a-45e1-be2e-c83594946b1c" />
 
 
 *Add screenshots of your landing page here if available.*
