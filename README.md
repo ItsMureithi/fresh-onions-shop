@@ -2,6 +2,8 @@
 
 > *"A clean, modern onion delivery website built with passion and precision by @DevDataDoc."*
 
+> ## With consistency and determination, one day everthing will come in order ##
+
 ---
 
 ## 💥 What Inspired Me to Build This Project
